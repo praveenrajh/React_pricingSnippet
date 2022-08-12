@@ -65,7 +65,7 @@ function App() {
               <Cards
                 item= {item}
               />
-            );
+            );                                                                 
           })}
         </div>
       </div>
